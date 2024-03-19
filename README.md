@@ -1,6 +1,12 @@
 # Projet
 
-Faire une app CLI pour multiplier des matrices sur GPU
+Ce projet a servi de pratique pour la compétition de calcul haute performance des CS Games 2024.
+Il s'agit de la somme des connaissances acquisses des deux équipes de l'ÉTS pour la compétition, soit le multithreading
+et la programmation GPU avec le framework / librairie WGPU
+
+## Tâche
+
+En 3h, faire une app CLI pour multiplier des matrices sur GPU
 
 ## Threads
 
